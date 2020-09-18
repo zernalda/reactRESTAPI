@@ -2,7 +2,7 @@
 
 This is `React-Spotify`, a React front end client that communicates with the Spotify API.
 
-![alt text](https://github.com/Pau1fitz/react-spotify/blob/master/demo.png "Demo")
+![Screenshot](demo.png)
 
 If you wish to run the code locally run the following.
 
